@@ -34,4 +34,4 @@ latest_posts:
 
 ---
 
-I am Emma, a beautiful woman. 
+I am Emma, a beautiful woman. I own a black cat named Mozi. 
